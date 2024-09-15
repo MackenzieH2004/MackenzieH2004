@@ -1,0 +1,17 @@
+body {
+    background-color: #ACBFE1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align:center;
+    color: #4F7FE1;
+}
+.about {
+    color:rgb(52, 142, 202);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+}
+h2 {
+    color: #6F4FE0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
